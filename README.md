@@ -1,5 +1,6 @@
 ### Olá! Eu sou Guilherme Crisi 👋
 
+<a href="https://instagram.com/crisi.sh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" target="_blank"></a>
 - 🔭 Atualmente trabalho com front-end mas sempre me aventurando com back-end
 - 🌱 Estudando Flutter 
 - 📫 Contate-me no email: guilherme.campos137@gmail.com

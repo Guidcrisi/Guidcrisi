@@ -1,6 +1,5 @@
 ### Olá! Eu sou Guilherme Crisi 👋
 
-<a href="https://www.buymeacoffee.com/guidcrisi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" target="_blank"></a>
 - 🔭 Atualmente trabalho com Flutter
 - 🌱 Estudando Vue JS
 - 📫 Contate-me no email: guilherme.campos137@gmail.com

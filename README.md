@@ -1,7 +1,7 @@
 ### Olá! Eu sou Guilherme Crisi 👋
 
 - 🔭 Atualmente trabalho com Flutter
-- 🌱 Estudando Vue JS
+- 🌱 Estudando Rust
 - 📫 Contate-me no email: guilherme.campos137@gmail.com
 - 😄 Pronomes: ele/dele
 
